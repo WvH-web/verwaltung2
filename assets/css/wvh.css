@@ -1,0 +1,284 @@
+/* ============================================================
+   WvH Abrechnungssystem – Custom CSS
+   Bootstrap 5 | Modern & Clean
+   ============================================================ */
+
+:root {
+  --wvh-primary:     #1a3a5c;
+  --wvh-secondary:   #2d6fa4;
+  --wvh-accent:      #e8a020;
+  --wvh-light:       #f4f7fb;
+  --wvh-sidebar-w:   260px;
+  --wvh-navbar-h:    60px;
+}
+
+/* ---- Reset & Base ---- */
+*, *::before, *::after { box-sizing: border-box; }
+html { height: 100%; }
+
+body.wvh-app {
+  background: var(--wvh-light);
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  font-size: 0.92rem;
+  color: #2c3e50;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ---- Navbar ---- */
+.wvh-navbar {
+  background: var(--wvh-primary);
+  min-height: var(--wvh-navbar-h);
+  border-bottom: 3px solid var(--wvh-accent);
+}
+
+.wvh-navbar .navbar-brand,
+.wvh-navbar .nav-link {
+  color: rgba(255,255,255,.9) !important;
+  transition: color .15s;
+}
+
+.wvh-navbar .nav-link:hover,
+.wvh-navbar .nav-link.active {
+  color: var(--wvh-accent) !important;
+}
+
+.wvh-navbar .dropdown-menu {
+  border-top: 3px solid var(--wvh-accent);
+  border-radius: .5rem;
+  margin-top: .5rem !important;
+}
+
+.wvh-brand-icon {
+  width: 36px; height: 36px;
+  background: var(--wvh-accent);
+  border-radius: 8px;
+  display: flex; align-items: center; justify-content: center;
+  color: #fff; font-size: 1.1rem;
+}
+
+/* ---- Avatar ---- */
+.wvh-avatar {
+  width: 34px; height: 34px;
+  background: var(--wvh-secondary);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  color: #fff; font-weight: 600; font-size: .85rem;
+}
+
+/* ---- Main Content ---- */
+.wvh-main {
+  flex: 1;
+  padding-top: 1rem;
+}
+
+/* ---- Cards ---- */
+.wvh-card {
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 1px 3px rgba(0,0,0,.08), 0 1px 8px rgba(0,0,0,.04);
+  background: #fff;
+}
+
+.wvh-card .card-header {
+  background: #fff;
+  border-bottom: 1px solid #eef1f6;
+  border-radius: 12px 12px 0 0 !important;
+  padding: 1.1rem 1.4rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+}
+
+.wvh-card .card-header .card-icon {
+  width: 32px; height: 32px;
+  border-radius: 8px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 1rem;
+}
+
+/* ---- Stat Boxes (Dashboard) ---- */
+.wvh-stat {
+  border: none;
+  border-radius: 12px;
+  padding: 1.4rem;
+  color: #fff;
+  position: relative;
+  overflow: hidden;
+}
+
+.wvh-stat .stat-icon {
+  position: absolute; right: 1rem; top: 50%;
+  transform: translateY(-50%);
+  font-size: 3.5rem; opacity: .2;
+}
+
+.wvh-stat .stat-value {
+  font-size: 2rem; font-weight: 700; line-height: 1;
+}
+
+.wvh-stat .stat-label {
+  font-size: .8rem; opacity: .85; margin-top: .3rem;
+}
+
+.bg-wvh-primary   { background: linear-gradient(135deg, var(--wvh-primary), var(--wvh-secondary)); }
+.bg-wvh-success   { background: linear-gradient(135deg, #1a7a4f, #27ae60); }
+.bg-wvh-warning   { background: linear-gradient(135deg, #c47a10, var(--wvh-accent)); }
+.bg-wvh-danger    { background: linear-gradient(135deg, #922b21, #e74c3c); }
+.bg-wvh-info      { background: linear-gradient(135deg, #1a5276, #2980b9); }
+
+/* ---- Tables ---- */
+.wvh-table {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+}
+
+.wvh-table thead th {
+  background: var(--wvh-light);
+  color: var(--wvh-primary);
+  font-weight: 600;
+  font-size: .8rem;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  padding: .7rem 1rem;
+  border-bottom: 2px solid #e0e7f0;
+  white-space: nowrap;
+}
+
+.wvh-table tbody tr {
+  transition: background .1s;
+}
+
+.wvh-table tbody tr:hover {
+  background: #f8fbff;
+}
+
+.wvh-table td {
+  padding: .7rem 1rem;
+  border-bottom: 1px solid #f0f4f9;
+  vertical-align: middle;
+}
+
+/* ---- Buttons ---- */
+.btn-wvh {
+  background: var(--wvh-primary);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: .45rem 1.1rem;
+  font-weight: 500;
+  transition: all .2s;
+}
+
+.btn-wvh:hover { background: var(--wvh-secondary); color: #fff; transform: translateY(-1px); }
+
+.btn-wvh-outline {
+  background: transparent;
+  color: var(--wvh-primary);
+  border: 2px solid var(--wvh-primary);
+  border-radius: 8px;
+  padding: .4rem 1.1rem;
+  font-weight: 500;
+  transition: all .2s;
+}
+
+.btn-wvh-outline:hover {
+  background: var(--wvh-primary); color: #fff;
+}
+
+/* ---- Forms ---- */
+.form-control:focus,
+.form-select:focus {
+  border-color: var(--wvh-secondary);
+  box-shadow: 0 0 0 .2rem rgba(45,111,164,.2);
+}
+
+.form-label { font-weight: 500; color: #344563; margin-bottom: .3rem; }
+
+/* ---- Login Page ---- */
+.wvh-login-bg {
+  background: linear-gradient(135deg, var(--wvh-primary) 0%, #0f2440 100%);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wvh-login-card {
+  background: #fff;
+  border-radius: 16px;
+  padding: 2.5rem;
+  width: 100%;
+  max-width: 420px;
+  box-shadow: 0 20px 60px rgba(0,0,0,.3);
+}
+
+.wvh-login-logo {
+  width: 64px; height: 64px;
+  background: var(--wvh-accent);
+  border-radius: 16px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 2rem; color: #fff;
+  margin: 0 auto 1.5rem;
+}
+
+.wvh-input-icon {
+  position: relative;
+}
+
+.wvh-input-icon .form-control {
+  padding-left: 2.6rem;
+}
+
+.wvh-input-icon .icon {
+  position: absolute;
+  left: .85rem; top: 50%;
+  transform: translateY(-50%);
+  color: #94a3b8;
+  pointer-events: none;
+}
+
+/* ---- Badge Varianten ---- */
+.badge { font-size: .74rem; padding: .35em .65em; font-weight: 500; }
+
+/* ---- Status-Leiste Monat ---- */
+.wvh-workflow-steps {
+  display: flex; gap: 0; overflow: hidden; border-radius: 8px;
+}
+
+.wvh-workflow-steps .step {
+  flex: 1; text-align: center; padding: .5rem;
+  font-size: .75rem; font-weight: 500;
+  background: #e9ecef; color: #6c757d;
+  position: relative;
+}
+
+.wvh-workflow-steps .step.done  { background: #d1fae5; color: #065f46; }
+.wvh-workflow-steps .step.active { background: var(--wvh-accent); color: #fff; }
+
+/* ---- Footer ---- */
+.wvh-footer {
+  background: #fff;
+  border-top: 1px solid #eef1f6;
+}
+
+/* ---- Scrollbar ---- */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #f1f5f9; }
+::-webkit-scrollbar-thumb { background: #94a3b8; border-radius: 3px; }
+
+/* ---- Utilities ---- */
+.cursor-pointer { cursor: pointer; }
+.text-wvh { color: var(--wvh-primary) !important; }
+.border-wvh { border-color: var(--wvh-primary) !important; }
+.rounded-xl { border-radius: 12px; }
+
+/* ---- Responsive ---- */
+@media (max-width: 768px) {
+  .wvh-stat .stat-value { font-size: 1.5rem; }
+  .wvh-card .card-header { padding: .8rem 1rem; }
+  .wvh-login-card { padding: 1.8rem 1.4rem; margin: 1rem; }
+}

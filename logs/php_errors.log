@@ -1,0 +1,646 @@
+[01-Mar-2026 16:54:26 Europe/Berlin] [WvH-TeacherImport] abeck@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:26 Europe/Berlin] [WvH-TeacherImport] akuepper@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:27 Europe/Berlin] [WvH-TeacherImport] asturm@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:27 Europe/Berlin] [WvH-TeacherImport] anolte@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:28 Europe/Berlin] [WvH-TeacherImport] bbredow@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:28 Europe/Berlin] [WvH-TeacherImport] cjansen@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:28 Europe/Berlin] [WvH-TeacherImport] cstroh@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:29 Europe/Berlin] [WvH-TeacherImport] cgallardo@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:29 Europe/Berlin] [WvH-TeacherImport] cbrahmi@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:29 Europe/Berlin] [WvH-TeacherImport] dbuerling@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:30 Europe/Berlin] [WvH-TeacherImport] dkonkol@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:30 Europe/Berlin] [WvH-TeacherImport] dstriffler@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:30 Europe/Berlin] [WvH-TeacherImport] egunjic@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:31 Europe/Berlin] [WvH-TeacherImport] ebilchinski@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:31 Europe/Berlin] [WvH-TeacherImport] erecht@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:32 Europe/Berlin] [WvH-TeacherImport] fkegel@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:32 Europe/Berlin] [WvH-TeacherImport] fbeck@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:32 Europe/Berlin] [WvH-TeacherImport] gmaerz@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:33 Europe/Berlin] [WvH-TeacherImport] gkuessner@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:33 Europe/Berlin] [WvH-TeacherImport] hriffer@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:33 Europe/Berlin] [WvH-TeacherImport] hutz@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:34 Europe/Berlin] [WvH-TeacherImport] iguillaume@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:34 Europe/Berlin] [WvH-TeacherImport] jhochreiter@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:35 Europe/Berlin] [WvH-TeacherImport] jhannemann@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:35 Europe/Berlin] [WvH-TeacherImport] jhettstedt@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:35 Europe/Berlin] [WvH-TeacherImport] jhildebrandt@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:36 Europe/Berlin] [WvH-TeacherImport] jkerschhofer@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:36 Europe/Berlin] [WvH-TeacherImport] jmischke@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:36 Europe/Berlin] [WvH-TeacherImport] kschroeder@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:37 Europe/Berlin] [WvH-TeacherImport] kenns@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:37 Europe/Berlin] [WvH-TeacherImport] kgleine@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:38 Europe/Berlin] [WvH-TeacherImport] kmeier-sigwart@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:38 Europe/Berlin] [WvH-TeacherImport] kreiser@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:38 Europe/Berlin] [WvH-TeacherImport] kschmidt@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:39 Europe/Berlin] [WvH-TeacherImport] kaldibssi@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:39 Europe/Berlin] [WvH-TeacherImport] lzuniga@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:39 Europe/Berlin] [WvH-TeacherImport] lschallenberg@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:40 Europe/Berlin] [WvH-TeacherImport] tmaamar@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:40 Europe/Berlin] [WvH-TeacherImport] mewald@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:41 Europe/Berlin] [WvH-TeacherImport] mschreiber@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:41 Europe/Berlin] [WvH-TeacherImport] mschneider@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:41 Europe/Berlin] [WvH-TeacherImport] mherold@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:42 Europe/Berlin] [WvH-TeacherImport] nuntu@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:42 Europe/Berlin] [WvH-TeacherImport] nschmidt@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:42 Europe/Berlin] [WvH-TeacherImport] nblume@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:43 Europe/Berlin] [WvH-TeacherImport] pjurtschitsch@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:43 Europe/Berlin] [WvH-TeacherImport] pfellner@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:44 Europe/Berlin] [WvH-TeacherImport] rmaul@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:44 Europe/Berlin] [WvH-TeacherImport] rbt@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:44 Europe/Berlin] [WvH-TeacherImport] rtoufani@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:45 Europe/Berlin] [WvH-TeacherImport] rrousseau@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:45 Europe/Berlin] [WvH-TeacherImport] sziegler@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:45 Europe/Berlin] [WvH-TeacherImport] sberner@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:46 Europe/Berlin] [WvH-TeacherImport] sboehmer@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:46 Europe/Berlin] [WvH-TeacherImport] skolburan@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:46 Europe/Berlin] [WvH-TeacherImport] sbehrens@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:47 Europe/Berlin] [WvH-TeacherImport] sehrenfeuchter@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:47 Europe/Berlin] [WvH-TeacherImport] skuessner@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:48 Europe/Berlin] [WvH-TeacherImport] smenzel@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:48 Europe/Berlin] [WvH-TeacherImport] tkriegel@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:48 Europe/Berlin] [WvH-TeacherImport] ivoeltz@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:49 Europe/Berlin] [WvH-TeacherImport] uelstner@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:49 Europe/Berlin] [WvH-TeacherImport] iromeroespejo@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:49 Europe/Berlin] [WvH-TeacherImport] fmarin@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:50 Europe/Berlin] [WvH-TeacherImport] srickert@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:50 Europe/Berlin] [WvH-TeacherImport] smarcialgomes@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:51 Europe/Berlin] [WvH-TeacherImport] youtadrarte@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:51 Europe/Berlin] [WvH-TeacherImport] lkrueger@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:51 Europe/Berlin] [WvH-TeacherImport] spfenninger@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:52 Europe/Berlin] [WvH-TeacherImport] vschumann@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:52 Europe/Berlin] [WvH-TeacherImport] krumpel@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 16:54:52 Europe/Berlin] [WvH-TeacherImport] jwengler@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:17 Europe/Berlin] [WvH-TeacherImport] abeck@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:18 Europe/Berlin] [WvH-TeacherImport] akuepper@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:18 Europe/Berlin] [WvH-TeacherImport] asturm@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:18 Europe/Berlin] [WvH-TeacherImport] anolte@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:19 Europe/Berlin] [WvH-TeacherImport] bbredow@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:19 Europe/Berlin] [WvH-TeacherImport] cjansen@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:19 Europe/Berlin] [WvH-TeacherImport] cstroh@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:20 Europe/Berlin] [WvH-TeacherImport] cgallardo@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:20 Europe/Berlin] [WvH-TeacherImport] cbrahmi@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:21 Europe/Berlin] [WvH-TeacherImport] dbuerling@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:21 Europe/Berlin] [WvH-TeacherImport] dkonkol@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:21 Europe/Berlin] [WvH-TeacherImport] dstriffler@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:22 Europe/Berlin] [WvH-TeacherImport] egunjic@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:22 Europe/Berlin] [WvH-TeacherImport] ebilchinski@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:22 Europe/Berlin] [WvH-TeacherImport] erecht@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:23 Europe/Berlin] [WvH-TeacherImport] fkegel@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:23 Europe/Berlin] [WvH-TeacherImport] fbeck@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:24 Europe/Berlin] [WvH-TeacherImport] gmaerz@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:24 Europe/Berlin] [WvH-TeacherImport] gkuessner@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:24 Europe/Berlin] [WvH-TeacherImport] hriffer@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:25 Europe/Berlin] [WvH-TeacherImport] hutz@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:25 Europe/Berlin] [WvH-TeacherImport] iguillaume@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:25 Europe/Berlin] [WvH-TeacherImport] jhochreiter@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:26 Europe/Berlin] [WvH-TeacherImport] jhannemann@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:26 Europe/Berlin] [WvH-TeacherImport] jhettstedt@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:26 Europe/Berlin] [WvH-TeacherImport] jhildebrandt@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:27 Europe/Berlin] [WvH-TeacherImport] jkerschhofer@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:27 Europe/Berlin] [WvH-TeacherImport] jmischke@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:28 Europe/Berlin] [WvH-TeacherImport] kschroeder@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:28 Europe/Berlin] [WvH-TeacherImport] kenns@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:28 Europe/Berlin] [WvH-TeacherImport] kgleine@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:29 Europe/Berlin] [WvH-TeacherImport] kmeier-sigwart@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:29 Europe/Berlin] [WvH-TeacherImport] kreiser@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:29 Europe/Berlin] [WvH-TeacherImport] kschmidt@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:30 Europe/Berlin] [WvH-TeacherImport] kaldibssi@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:30 Europe/Berlin] [WvH-TeacherImport] lzuniga@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:30 Europe/Berlin] [WvH-TeacherImport] lschallenberg@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:31 Europe/Berlin] [WvH-TeacherImport] tmaamar@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:31 Europe/Berlin] [WvH-TeacherImport] mewald@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:32 Europe/Berlin] [WvH-TeacherImport] mschreiber@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:32 Europe/Berlin] [WvH-TeacherImport] mschneider@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:32 Europe/Berlin] [WvH-TeacherImport] mherold@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:33 Europe/Berlin] [WvH-TeacherImport] nuntu@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:33 Europe/Berlin] [WvH-TeacherImport] nschmidt@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:33 Europe/Berlin] [WvH-TeacherImport] nblume@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:34 Europe/Berlin] [WvH-TeacherImport] pjurtschitsch@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:34 Europe/Berlin] [WvH-TeacherImport] pfellner@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:35 Europe/Berlin] [WvH-TeacherImport] rmaul@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:35 Europe/Berlin] [WvH-TeacherImport] rbt@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:35 Europe/Berlin] [WvH-TeacherImport] rtoufani@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:36 Europe/Berlin] [WvH-TeacherImport] rrousseau@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:36 Europe/Berlin] [WvH-TeacherImport] sziegler@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:36 Europe/Berlin] [WvH-TeacherImport] sberner@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:37 Europe/Berlin] [WvH-TeacherImport] sboehmer@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:37 Europe/Berlin] [WvH-TeacherImport] skolburan@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:38 Europe/Berlin] [WvH-TeacherImport] sbehrens@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:38 Europe/Berlin] [WvH-TeacherImport] sehrenfeuchter@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:38 Europe/Berlin] [WvH-TeacherImport] skuessner@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:39 Europe/Berlin] [WvH-TeacherImport] smenzel@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:39 Europe/Berlin] [WvH-TeacherImport] tkriegel@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:39 Europe/Berlin] [WvH-TeacherImport] ivoeltz@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:40 Europe/Berlin] [WvH-TeacherImport] uelstner@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:40 Europe/Berlin] [WvH-TeacherImport] iromeroespejo@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:40 Europe/Berlin] [WvH-TeacherImport] fmarin@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:41 Europe/Berlin] [WvH-TeacherImport] srickert@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:41 Europe/Berlin] [WvH-TeacherImport] smarcialgomes@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:42 Europe/Berlin] [WvH-TeacherImport] youtadrarte@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:42 Europe/Berlin] [WvH-TeacherImport] lkrueger@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:42 Europe/Berlin] [WvH-TeacherImport] spfenninger@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:43 Europe/Berlin] [WvH-TeacherImport] vschumann@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:43 Europe/Berlin] [WvH-TeacherImport] krumpel@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:05:43 Europe/Berlin] [WvH-TeacherImport] jwengler@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:50 Europe/Berlin] [WvH-TeacherImport] abeck@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:50 Europe/Berlin] [WvH-TeacherImport] akuepper@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:51 Europe/Berlin] [WvH-TeacherImport] asturm@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:51 Europe/Berlin] [WvH-TeacherImport] anolte@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:51 Europe/Berlin] [WvH-TeacherImport] bbredow@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:52 Europe/Berlin] [WvH-TeacherImport] cjansen@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:52 Europe/Berlin] [WvH-TeacherImport] cstroh@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:52 Europe/Berlin] [WvH-TeacherImport] cgallardo@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:53 Europe/Berlin] [WvH-TeacherImport] cbrahmi@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:53 Europe/Berlin] [WvH-TeacherImport] dbuerling@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:54 Europe/Berlin] [WvH-TeacherImport] dkonkol@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:54 Europe/Berlin] [WvH-TeacherImport] dstriffler@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:54 Europe/Berlin] [WvH-TeacherImport] egunjic@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:55 Europe/Berlin] [WvH-TeacherImport] ebilchinski@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:55 Europe/Berlin] [WvH-TeacherImport] erecht@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:55 Europe/Berlin] [WvH-TeacherImport] fkegel@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:56 Europe/Berlin] [WvH-TeacherImport] fbeck@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:56 Europe/Berlin] [WvH-TeacherImport] gmaerz@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:56 Europe/Berlin] [WvH-TeacherImport] gkuessner@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:57 Europe/Berlin] [WvH-TeacherImport] hriffer@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:57 Europe/Berlin] [WvH-TeacherImport] hutz@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:58 Europe/Berlin] [WvH-TeacherImport] iguillaume@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:58 Europe/Berlin] [WvH-TeacherImport] jhochreiter@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:58 Europe/Berlin] [WvH-TeacherImport] jhannemann@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:59 Europe/Berlin] [WvH-TeacherImport] jhettstedt@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:59 Europe/Berlin] [WvH-TeacherImport] jhildebrandt@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:06:59 Europe/Berlin] [WvH-TeacherImport] jkerschhofer@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:00 Europe/Berlin] [WvH-TeacherImport] jmischke@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:00 Europe/Berlin] [WvH-TeacherImport] kschroeder@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:01 Europe/Berlin] [WvH-TeacherImport] kenns@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:01 Europe/Berlin] [WvH-TeacherImport] kgleine@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:01 Europe/Berlin] [WvH-TeacherImport] kmeier-sigwart@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:02 Europe/Berlin] [WvH-TeacherImport] kreiser@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:02 Europe/Berlin] [WvH-TeacherImport] kschmidt@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:02 Europe/Berlin] [WvH-TeacherImport] kaldibssi@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:03 Europe/Berlin] [WvH-TeacherImport] lzuniga@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:03 Europe/Berlin] [WvH-TeacherImport] lschallenberg@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:03 Europe/Berlin] [WvH-TeacherImport] tmaamar@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:04 Europe/Berlin] [WvH-TeacherImport] mewald@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:04 Europe/Berlin] [WvH-TeacherImport] mschreiber@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:05 Europe/Berlin] [WvH-TeacherImport] mschneider@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:05 Europe/Berlin] [WvH-TeacherImport] mherold@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:05 Europe/Berlin] [WvH-TeacherImport] nuntu@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:06 Europe/Berlin] [WvH-TeacherImport] nschmidt@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:06 Europe/Berlin] [WvH-TeacherImport] nblume@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:06 Europe/Berlin] [WvH-TeacherImport] pjurtschitsch@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:07 Europe/Berlin] [WvH-TeacherImport] pfellner@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:07 Europe/Berlin] [WvH-TeacherImport] rmaul@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:08 Europe/Berlin] [WvH-TeacherImport] rbt@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:08 Europe/Berlin] [WvH-TeacherImport] rtoufani@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:08 Europe/Berlin] [WvH-TeacherImport] rrousseau@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:09 Europe/Berlin] [WvH-TeacherImport] sziegler@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:09 Europe/Berlin] [WvH-TeacherImport] sberner@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:09 Europe/Berlin] [WvH-TeacherImport] sboehmer@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:10 Europe/Berlin] [WvH-TeacherImport] skolburan@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:10 Europe/Berlin] [WvH-TeacherImport] sbehrens@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:10 Europe/Berlin] [WvH-TeacherImport] sehrenfeuchter@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:11 Europe/Berlin] [WvH-TeacherImport] skuessner@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:11 Europe/Berlin] [WvH-TeacherImport] smenzel@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:12 Europe/Berlin] [WvH-TeacherImport] tkriegel@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:12 Europe/Berlin] [WvH-TeacherImport] ivoeltz@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:12 Europe/Berlin] [WvH-TeacherImport] uelstner@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:13 Europe/Berlin] [WvH-TeacherImport] iromeroespejo@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:13 Europe/Berlin] [WvH-TeacherImport] fmarin@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:13 Europe/Berlin] [WvH-TeacherImport] srickert@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:14 Europe/Berlin] [WvH-TeacherImport] smarcialgomes@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:14 Europe/Berlin] [WvH-TeacherImport] youtadrarte@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:15 Europe/Berlin] [WvH-TeacherImport] lkrueger@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:15 Europe/Berlin] [WvH-TeacherImport] spfenninger@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:15 Europe/Berlin] [WvH-TeacherImport] vschumann@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:16 Europe/Berlin] [WvH-TeacherImport] krumpel@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 17:07:16 Europe/Berlin] [WvH-TeacherImport] jwengler@wvh-online.com: SQLSTATE[HY000]: General error: 3105 The value specified for generated column 'display_name' in table 'users' is not allowed.
+[01-Mar-2026 19:22:57 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:23:56 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php:148
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php(148): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php on line 148
+[01-Mar-2026 19:24:01 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php:148
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php(148): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php on line 148
+[01-Mar-2026 19:24:04 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php:148
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php(148): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php on line 148
+[01-Mar-2026 19:24:13 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php:148
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php(148): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php on line 148
+[01-Mar-2026 19:24:18 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:28:00 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:28:26 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:30:16 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:30:29 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:30:47 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php:148
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php(148): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php on line 148
+[01-Mar-2026 19:32:01 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:32:05 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:32:12 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:32:28 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php:148
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php(148): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php on line 148
+[01-Mar-2026 19:33:10 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php:148
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php(148): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php on line 148
+[01-Mar-2026 19:34:01 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:34:56 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:34:59 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:35:19 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php:148
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php(148): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php on line 148
+[01-Mar-2026 19:44:06 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:44:22 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:46:22 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:46:45 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1370 execute command denied to user 'wvhadmin1'@'%' for routine 'ub.CONCAT' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php:96
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php(96): PDO->query()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php on line 96
+[01-Mar-2026 19:46:51 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1370 execute command denied to user 'wvhadmin1'@'%' for routine 'ub.CONCAT' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php:96
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php(96): PDO->query()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php on line 96
+[01-Mar-2026 19:47:28 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:47:31 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:47:35 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:47:40 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:49:15 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php:148
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php(148): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php on line 148
+[01-Mar-2026 19:49:26 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php:148
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php(148): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\timetable\view.php on line 148
+[01-Mar-2026 19:49:29 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1370 execute command denied to user 'wvhadmin1'@'%' for routine 'ub.CONCAT' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php:96
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php(96): PDO->query()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php on line 96
+[01-Mar-2026 19:53:32 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:53:36 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:55:25 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:59:24 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:59:30 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1370 execute command denied to user 'wvhadmin1'@'%' for routine 'ub.CONCAT' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php:96
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php(96): PDO->query()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php on line 96
+[01-Mar-2026 19:59:31 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 19:59:33 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 20:00:05 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 20:00:10 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 20:00:58 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 20:02:04 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 20:02:09 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 20:07:48 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 20:08:01 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 20:08:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1370 execute command denied to user 'wvhadmin1'@'%' for routine 'ub.CONCAT' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php:96
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php(96): PDO->query()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php on line 96
+[01-Mar-2026 20:08:34 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 20:08:37 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 20:10:06 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 20:10:17 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 20:10:23 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1370 execute command denied to user 'wvhadmin1'@'%' for routine 'ub.CONCAT' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php:96
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php(96): PDO->query()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php on line 96
+[01-Mar-2026 20:15:34 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 20:15:41 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1370 execute command denied to user 'wvhadmin1'@'%' for routine 'ub.CONCAT' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php:96
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php(96): PDO->query()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\deputate\assignments.php on line 96
+[01-Mar-2026 20:15:43 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php:358
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php(358): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\dashboard.php on line 358
+[01-Mar-2026 21:13:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Auth\Auth::requireLogin() in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\week.php:9
+Stack trace:
+#0 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\week.php on line 9
+[01-Mar-2026 21:14:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Auth\Auth::requireLogin() in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\week.php:9
+Stack trace:
+#0 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\week.php on line 9
+[01-Mar-2026 21:14:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Auth\Auth::requireLogin() in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\open.php:8
+Stack trace:
+#0 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\open.php on line 8
+[01-Mar-2026 21:14:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Auth\Auth::requireLogin() in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\week.php:9
+Stack trace:
+#0 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\week.php on line 9
+[01-Mar-2026 21:16:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Auth\Auth::requireLogin() in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\week.php:9
+Stack trace:
+#0 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\week.php on line 9
+[01-Mar-2026 21:16:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Auth\Auth::requireLogin() in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\open.php:8
+Stack trace:
+#0 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\open.php on line 8
+[01-Mar-2026 21:33:00 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub_e.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php:180
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php(180): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php on line 180
+[01-Mar-2026 21:33:04 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub_e.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php:180
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php(180): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php on line 180
+[01-Mar-2026 21:33:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Auth\Auth::requireLogin() in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\week.php:9
+Stack trace:
+#0 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\week.php on line 9
+[01-Mar-2026 21:33:35 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.original_teacher_decision' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\manage.php:97
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\manage.php(97): PDO->query()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\manage.php on line 97
+[01-Mar-2026 21:34:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Auth\Auth::requireLogin() in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\week.php:9
+Stack trace:
+#0 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\week.php on line 9
+[01-Mar-2026 21:35:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Auth\Auth::requireLogin() in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\week.php:9
+Stack trace:
+#0 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\week.php on line 9
+[01-Mar-2026 21:35:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Auth\Auth::requireLogin() in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\open.php:8
+Stack trace:
+#0 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\open.php on line 8
+[01-Mar-2026 21:35:50 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.original_teacher_decision' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\manage.php:97
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\manage.php(97): PDO->query()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\manage.php on line 97
+[01-Mar-2026 21:36:03 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub_e.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php:180
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php(180): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php on line 180
+[01-Mar-2026 21:47:33 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub_e.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php:183
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php(183): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php on line 183
+[01-Mar-2026 21:48:10 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub_e.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php:185
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php(185): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php on line 185
+[01-Mar-2026 21:48:16 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub_e.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php:185
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php(185): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php on line 185
+[01-Mar-2026 21:48:24 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub_e.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php:185
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php(185): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php on line 185
+[01-Mar-2026 21:48:35 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub_e.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php:185
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php(185): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php on line 185
+[01-Mar-2026 21:48:39 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub_e.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php:185
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php(185): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php on line 185
+[01-Mar-2026 21:48:46 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub_e.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php:185
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php(185): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php on line 185
+[01-Mar-2026 21:50:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Auth\Auth::requireLogin() in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\week.php:9
+Stack trace:
+#0 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\week.php on line 9
+[01-Mar-2026 21:55:11 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub_e.color' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php:183
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php(183): PDO->prepare()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\index.php on line 183
+[01-Mar-2026 21:58:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Auth\Auth::requireLogin() in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\week.php:9
+Stack trace:
+#0 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\week.php on line 9
+[01-Mar-2026 21:58:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Auth\Auth::requireLogin() in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\open.php:8
+Stack trace:
+#0 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\open.php on line 8
+[01-Mar-2026 21:58:24 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.original_teacher_decision' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\manage.php:97
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\manage.php(97): PDO->query()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\manage.php on line 97
+[01-Mar-2026 21:59:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Auth\Auth\Auth" not found in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\action.php:27
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\action.php(104): getMyTeacherId()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\action.php on line 27
+[01-Mar-2026 21:59:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Auth\Auth\Auth" not found in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\action.php:27
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\action.php(224): getMyTeacherId()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\action.php on line 27
+[01-Mar-2026 22:00:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Auth\Auth\Auth" not found in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\action.php:27
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\action.php(104): getMyTeacherId()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\action.php on line 27
+[01-Mar-2026 22:00:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Auth\Auth::requireLogin() in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\week.php:9
+Stack trace:
+#0 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\week.php on line 9
+[01-Mar-2026 22:00:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Auth\Auth::requireLogin() in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\open.php:8
+Stack trace:
+#0 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\open.php on line 8
+[01-Mar-2026 22:00:45 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.original_teacher_decision' in 'field list' in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\manage.php:97
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\manage.php(97): PDO->query()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\manage.php on line 97
+[01-Mar-2026 22:04:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Auth\Auth\Auth" not found in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\action.php:27
+Stack trace:
+#0 G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\action.php(104): getMyTeacherId()
+#1 {main}
+  thrown in G:\PleskVhosts\wvh-online.com\deutsche-online-schule.com\schooltools\teachersbilling\substitutions\action.php on line 27
